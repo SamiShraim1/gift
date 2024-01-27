@@ -1,0 +1,24 @@
+body{
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.buttons{
+    text-decoration: none;
+    border: 0px solid #000;
+    background-color: white;
+    cursor: pointer;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+gap: 25px;
+}
